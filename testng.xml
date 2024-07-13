@@ -1,0 +1,8 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <packages>
+      <package name="scripts"/>
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
