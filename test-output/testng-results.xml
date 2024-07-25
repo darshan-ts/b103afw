@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-10T11:58:36 IST" name="Default suite" finished-at="2024-07-10T11:58:39 IST" duration-ms="3002">
+  <suite started-at="2024-07-25T17:35:07 IST" name="Default suite" finished-at="2024-07-25T17:35:10 IST" duration-ms="2699">
     <groups>
     </groups>
-    <test started-at="2024-07-10T11:58:36 IST" name="Default test" finished-at="2024-07-10T11:58:39 IST" duration-ms="3002">
+    <test started-at="2024-07-25T17:35:07 IST" name="Default test" finished-at="2024-07-25T17:35:10 IST" duration-ms="2699">
       <class name="scripts.TC1">
-        <test-method is-config="true" signature="createReport()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-10T11:58:35 IST" name="createReport" finished-at="2024-07-10T11:58:36 IST" duration-ms="118" status="PASS">
+        <test-method is-config="true" signature="createReport()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-25T17:35:07 IST" name="createReport" finished-at="2024-07-25T17:35:07 IST" duration-ms="129" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createReport -->
-        <test-method is-config="true" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-10T11:58:36 IST" name="preCondition" finished-at="2024-07-10T11:58:38 IST" duration-ms="2508" status="PASS">
+        <test-method is-config="true" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-25T17:35:07 IST" name="preCondition" finished-at="2024-07-25T17:35:09 IST" duration-ms="2193" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,11 +22,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="test1()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-10T11:58:38 IST" name="test1" finished-at="2024-07-10T11:58:38 IST" duration-ms="334" status="PASS">
+        <test-method signature="test1()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-25T17:35:09 IST" name="test1" finished-at="2024-07-25T17:35:10 IST" duration-ms="374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-10T11:58:38 IST" name="postCondition" finished-at="2024-07-10T11:58:39 IST" duration-ms="141" status="PASS">
+        <test-method is-config="true" signature="postCondition(org.testng.ITestResult)[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-25T17:35:10 IST" name="postCondition" finished-at="2024-07-25T17:35:10 IST" duration-ms="114" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-        <test-method is-config="true" signature="publishReport()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-10T11:58:39 IST" name="publishReport" finished-at="2024-07-10T11:58:39 IST" duration-ms="154" status="PASS">
+        <test-method is-config="true" signature="publishReport()[pri:0, instance:scripts.TC1@2d1ef81a]" started-at="2024-07-25T17:35:10 IST" name="publishReport" finished-at="2024-07-25T17:35:10 IST" duration-ms="167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishReport -->
